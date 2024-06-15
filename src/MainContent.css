@@ -1,7 +1,7 @@
 .main-content {
   position: relative;
   text-align: center;
-  padding: 20px;
+  
   background-color: #f8e8c1;
   background: url('./slidingPanda.png');
   background-size: cover;
@@ -11,8 +11,8 @@
 }
 
 .cat-name {
-  font-size: 3rem;
-  color: #7a4b2e;
+  font-size: 5rem;
+  color: white;
   margin-bottom: 20px;
 }
 
@@ -23,8 +23,8 @@
 }
 
 .cat-description, .cat-address {
-  font-size: 1.2rem;
-  color: #7a4b2e;
+  font-size: 2rem;
+  color: white;
   font-weight: bold;
   margin-top: 20px;
 }
@@ -60,8 +60,8 @@
 }
 
 .meme-title {
-  font-size: 2rem;
-  color: #7a4b2e;
+  font-size: 5rem;
+  color: white;
   margin: 20px 0;
 }
 

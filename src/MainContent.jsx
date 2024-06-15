@@ -60,15 +60,16 @@ const MainContent = () => {
       </div>
       <div className="icons-container">
         <a href='#'><img src='./telegram.png' alt="X" className="icon" ></img></a>
-        <img src='./x.png' alt="Telegram" className="icon" />
+       <a href='#'><img src='./x.png' alt="Telegram" className="icon" /></a> 
         {/* Add other icons similarly */}
       </div>
-      <h2 className="meme-title">Panda</h2>
+      
       <div className="memes-gallery">
         <img src='./glasses.jpeg' alt="Meme 1" className="meme-image" />
         <img src='./hat.jpeg' alt="Meme 2" className="meme-image" />
         <img src='./candle.gif' alt="Meme 3" className="meme-image" />
         <img src='./square.jpeg' alt="Meme 4" className="meme-image" />
+        <img src='./luggage.jpeg' alt="Meme 4" className="meme-image" />
       </div>
       {pandaElements}
 
