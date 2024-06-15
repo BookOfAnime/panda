@@ -66,7 +66,7 @@ const MainContent = () => {
       
       <div className="memes-gallery">
         <img src='./luggage.jpeg' alt="Meme 1" className="meme-image" />
-        <img src='./hat.jpeg' alt="Meme 2" className="meme-image" />
+        <img src='./PandaBet.png' alt="Meme 2" className="meme-image" />
         <img src='./Untitled.gif' alt="Meme 3" className="meme-image" />
         <img src='./square.jpeg' alt="Meme 4" className="meme-image" />
         <img src='./candle.gif' alt="Meme 4" className="meme-image" />
@@ -101,10 +101,9 @@ const MainContent = () => {
         <div className="memes-container">
           <img src='./color.gif' alt="Meme" className="meme-image" />
           <img src='./glasses.jpeg' alt="Meme" className="meme-image" />
-          <img src='./red.gif' alt="Meme" className="meme-image" />
+          <img src='./hat.jpeg' alt="Meme" className="meme-image" />
           <img src='./PandaWeed.png' alt="Meme" className="meme-image" />
           <img src='./vape.png'alt="Meme" className="meme-image" />
-          <img src='./off.gif' alt="Meme" className="meme-image" />
           <img src='./PandaMAGA.png' alt="Meme" className="meme-image" />
           <img src='./red.gif' alt="Meme" className="meme-image" />
         </div>
