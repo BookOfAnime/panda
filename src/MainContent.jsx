@@ -65,11 +65,11 @@ const MainContent = () => {
       </div>
       
       <div className="memes-gallery">
-        <img src='./glasses.jpeg' alt="Meme 1" className="meme-image" />
+        <img src='./luggage.jpeg' alt="Meme 1" className="meme-image" />
         <img src='./hat.jpeg' alt="Meme 2" className="meme-image" />
-        <img src='./candle.gif' alt="Meme 3" className="meme-image" />
+        <img src='./Untitled.gif' alt="Meme 3" className="meme-image" />
         <img src='./square.jpeg' alt="Meme 4" className="meme-image" />
-        <img src='./luggage.jpeg' alt="Meme 4" className="meme-image" />
+        <img src='./candle.gif' alt="Meme 4" className="meme-image" />
       </div>
       {pandaElements}
 
@@ -99,14 +99,14 @@ const MainContent = () => {
       <section className="more-memes">
         <h2 style={{color:"white", padding:"10px"}}>PANDA PANDA PANDA!!!</h2>
         <div className="memes-container">
-          <img src='./square.jpeg' alt="Meme" className="meme-image" />
           <img src='./color.gif' alt="Meme" className="meme-image" />
+          <img src='./glasses.jpeg' alt="Meme" className="meme-image" />
           <img src='./red.gif' alt="Meme" className="meme-image" />
           <img src='./PandaWeed.png' alt="Meme" className="meme-image" />
           <img src='./shake.gif'alt="Meme" className="meme-image" />
           <img src='./off.gif' alt="Meme" className="meme-image" />
           <img src='./PandaMAGA.png' alt="Meme" className="meme-image" />
-          <img src='./Untitled.gif' alt="Meme" className="meme-image" />
+          <img src='./red.gif' alt="Meme" className="meme-image" />
         </div>
       </section>
     </main>
