@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <header className="header">
       <img src='./PandaSquare.png' alt="Michi" className="logo" />
-      <span className="header-name">$Sliding Panda</span>
+      <span className="header-name">$SPANDA</span>
     </header>
   );
 };

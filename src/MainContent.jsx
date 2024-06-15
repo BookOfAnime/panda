@@ -51,7 +51,7 @@ const MainContent = () => {
 
   return (
     <main className="main-content">
-      <h1 className="cat-name">$Sliding Panda</h1>
+      <h1 className="cat-name">Sliding Panda</h1>
       <img src={pandaSquare} alt="Michi" className="michi-image" />
       <p className="cat-description">The Cutest Panda on the internet</p>
       <p className="cat-address">CA: ?????</p>
@@ -60,7 +60,7 @@ const MainContent = () => {
       </div>
       <div className="icons-container">
         <a href='#'><img src='./telegram.png' alt="X" className="icon" ></img></a>
-       <a href='#'><img src='./x.png' alt="Telegram" className="icon" /></a> 
+       <a href='https://x.com/SlidingPandaSol'><img src='./x.png' alt="Telegram" className="icon" /></a> 
         {/* Add other icons similarly */}
       </div>
       
