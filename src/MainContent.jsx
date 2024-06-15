@@ -105,8 +105,8 @@ const MainContent = () => {
           <img src='./PandaWeed.png' alt="Meme" className="meme-image" />
           <img src='./shake.gif'alt="Meme" className="meme-image" />
           <img src='./off.gif' alt="Meme" className="meme-image" />
-          <img src={pandaSquare} alt="Meme" className="meme-image" />
-          <img src={pandaSquare} alt="Meme" className="meme-image" />
+          <img src='./PandaMAGA.png' alt="Meme" className="meme-image" />
+          <img src='./Untitled.gif' alt="Meme" className="meme-image" />
         </div>
       </section>
     </main>
