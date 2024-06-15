@@ -68,11 +68,11 @@ const MainContent = () => {
         <img src='./glasses.jpeg' alt="Meme 1" className="meme-image" />
         <img src='./hat.jpeg' alt="Meme 2" className="meme-image" />
         <img src='./candle.gif' alt="Meme 3" className="meme-image" />
-        <img src='./hat.jpeg' alt="Meme 4" className="meme-image" />
+        <img src='./square.jpeg' alt="Meme 4" className="meme-image" />
       </div>
       {pandaElements}
 
-      {/* Tokenomics Section */}
+      {/* Tokenomics Section
       <section className="tokenomics">
         <h2>Tokenomics</h2>
         <div className="tokenomics-container">
@@ -92,13 +92,13 @@ const MainContent = () => {
             <p>0%</p>
           </div>
         </div>
-      </section>
+      </section> */}
 
       {/* More Michi Memes Section */}
-      <section className="more-memes">
+      {/* <section className="more-memes">
         <h2>more michi memes</h2>
         <div className="memes-container">
-          <img src={pandaSquare} alt="Meme" className="meme-image" />
+          <img src='./square.jpeg' alt="Meme" className="meme-image" />
           <img src={pandaSquare} alt="Meme" className="meme-image" />
           <img src={pandaSquare} alt="Meme" className="meme-image" />
           <img src={pandaSquare} alt="Meme" className="meme-image" />
@@ -107,7 +107,7 @@ const MainContent = () => {
           <img src={pandaSquare} alt="Meme" className="meme-image" />
           <img src={pandaSquare} alt="Meme" className="meme-image" />
         </div>
-      </section>
+      </section> */}
     </main>
   );
 };
