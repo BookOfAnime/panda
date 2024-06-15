@@ -96,19 +96,19 @@ const MainContent = () => {
       </section> */}
 
       {/* More Michi Memes Section */}
-      {/* <section className="more-memes">
-        <h2>more michi memes</h2>
+      <section className="more-memes">
+        <h2 style={{color:"white", padding:"10px"}}>PANDA PANDA PANDA!!!</h2>
         <div className="memes-container">
           <img src='./square.jpeg' alt="Meme" className="meme-image" />
-          <img src={pandaSquare} alt="Meme" className="meme-image" />
-          <img src={pandaSquare} alt="Meme" className="meme-image" />
-          <img src={pandaSquare} alt="Meme" className="meme-image" />
-          <img src={pandaSquare} alt="Meme" className="meme-image" />
-          <img src={pandaSquare} alt="Meme" className="meme-image" />
+          <img src='./color.gif' alt="Meme" className="meme-image" />
+          <img src='./red.gif' alt="Meme" className="meme-image" />
+          <img src='./PandaWeed.png' alt="Meme" className="meme-image" />
+          <img src='./shake.gif'alt="Meme" className="meme-image" />
+          <img src='./off.gif' alt="Meme" className="meme-image" />
           <img src={pandaSquare} alt="Meme" className="meme-image" />
           <img src={pandaSquare} alt="Meme" className="meme-image" />
         </div>
-      </section> */}
+      </section>
     </main>
   );
 };
