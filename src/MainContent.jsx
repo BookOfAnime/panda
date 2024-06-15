@@ -103,7 +103,7 @@ const MainContent = () => {
           <img src='./glasses.jpeg' alt="Meme" className="meme-image" />
           <img src='./red.gif' alt="Meme" className="meme-image" />
           <img src='./PandaWeed.png' alt="Meme" className="meme-image" />
-          <img src='./shake.gif'alt="Meme" className="meme-image" />
+          <img src='./vape.png'alt="Meme" className="meme-image" />
           <img src='./off.gif' alt="Meme" className="meme-image" />
           <img src='./PandaMAGA.png' alt="Meme" className="meme-image" />
           <img src='./red.gif' alt="Meme" className="meme-image" />
