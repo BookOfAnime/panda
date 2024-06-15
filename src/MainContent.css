@@ -1,4 +1,7 @@
-
+@font-face {
+  font-family: 'myFirstFont';
+  src: url('.assets/ps.otf') format('opentype');
+}
 
 .main-content {
   position: relative;

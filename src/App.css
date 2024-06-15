@@ -6,7 +6,7 @@
 
 @font-face {
   font-family: 'myFirstFont';
-  src: url('./ps.otf') format('opentype');
+  src: url('./assets/ps.otf') format('opentype');
 }
 
 /* Apply custom font to the entire app */
