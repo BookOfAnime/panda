@@ -77,6 +77,7 @@
   justify-content: center;
   gap: 20px;
   flex-wrap: wrap;
+  padding: 20px;
 }
 
 .meme-image {
@@ -89,6 +90,7 @@
 
 .meme-image:hover {
   transform: scale(1.2);
+ 
 }
 
 .sliding-panda {

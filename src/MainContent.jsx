@@ -56,7 +56,7 @@ const MainContent = () => {
       <p className="cat-description">The Cutest Panda on the internet</p>
       <p className="cat-address">CA: ?????</p>
       <div className="buttons-container">
-        <button className="buy-button">BUY HERE</button>
+       <a href='https://pump.fun/board'><button className="buy-button">BUY HERE</button></a> 
       </div>
       <div className="icons-container">
         <a href='#'><img src='./telegram.png' alt="X" className="icon" ></img></a>
