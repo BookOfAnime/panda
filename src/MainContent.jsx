@@ -59,7 +59,7 @@ const MainContent = () => {
        <a href='https://pump.fun/5rQMD5PL7B7XrsF7EXagjHtqK1XgSRZHxXwZVV1qpump'><button className="buy-button">BUY HERE</button></a> 
       </div>
       <div className="icons-container">
-        <a href='#'><img src='./telegram.png' alt="X" className="icon" ></img></a>
+        <a href='https://t.me/+HSyPabpvdEFhYTNh'><img src='./telegram.png' alt="X" className="icon" ></img></a>
        <a href='https://x.com/SlidingPandaSol'><img src='./x.png' alt="Telegram" className="icon" /></a> 
         {/* Add other icons similarly */}
       </div>
