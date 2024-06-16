@@ -54,9 +54,9 @@ const MainContent = () => {
       <h1 className="cat-name">Sliding Panda</h1>
       <img src={pandaSquare} alt="Michi" className="michi-image" />
       <p className="cat-description">The Cutest Panda on the internet</p>
-      <p className="cat-address">CA: ?????</p>
+      <p className="cat-address">CA: 5rQMD5PL7B7XrsF7EXagjHtqK1XgSRZHxXwZVV1qpump</p>
       <div className="buttons-container">
-       <a href='https://pump.fun/board'><button className="buy-button">BUY HERE</button></a> 
+       <a href='https://pump.fun/5rQMD5PL7B7XrsF7EXagjHtqK1XgSRZHxXwZVV1qpump'><button className="buy-button">BUY HERE</button></a> 
       </div>
       <div className="icons-container">
         <a href='#'><img src='./telegram.png' alt="X" className="icon" ></img></a>
